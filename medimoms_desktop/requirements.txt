@@ -1,0 +1,33 @@
+# MediMoms Desktop Application - Python Dependencies
+
+# UI Framework
+customtkinter>=5.2.0
+packaging>=26.0
+
+# Database
+mysql-connector-python>=9.0.0
+
+# Password Hashing
+bcrypt>=4.0.0
+
+# Data Validation
+pydantic>=2.0.0
+
+# Charts & Visualization
+matplotlib>=3.7.0
+
+# Tables
+CTkTable>=1.0
+
+# Export
+openpyxl>=3.1.0
+fpdf2>=2.7.0
+
+# Date Handling
+python-dateutil>=2.8.0
+
+# Maps
+tkintermapview>=1.29
+
+# Utilities
+Pillow>=10.0.0
